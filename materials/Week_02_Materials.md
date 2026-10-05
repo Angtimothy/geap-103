@@ -418,3 +418,5 @@ Add 2–3 sentences: what do you think now about your wishes? Did anything chang
 | **verification** | Checking whether AI's output is correct and matches what you wanted |
 
 **5. Create a GitHub account** at github.com/signup. Use your Humber email. This is required for Week 3.
+
+Practice Forking 2nd attempt
